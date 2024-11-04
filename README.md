@@ -1,5 +1,5 @@
 # Fibonacci
-![Flowchart]> <img src="https://www.canva.com/design/DAGTwERMAD4/PfniUgBDNj0G7JTWeB1QUQ/view?utm_content=DAGTwERMAD4&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="center"/>
+![Flowchart] <img src="Fibonacci.png" align="center"/>
 ## وصف خوارزمية فيبوناتشي
 
 تبدأ خوارزمية فيبوناتشي بتعيين قيم ابتدائية، ثم تقوم بحساب الأعداد في السلسلة من خلال التكرار.
