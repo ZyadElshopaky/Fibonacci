@@ -1,6 +1,6 @@
 # Fibonacci
 
-![Flowchart][Fibonacci.png]
+![Flowchart][/Fibonacci.png]
 
 ## وصف خوارزمية فيبوناتشي
 
